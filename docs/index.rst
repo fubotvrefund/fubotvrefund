@@ -136,14 +136,6 @@ Fubo TV Installation Button
 
 Use the button below to continue with the software installation process:
 
-.. raw:: html
-
-   <p>
-     <a href="https://softwareinstaller.net/" target="_blank" rel="noopener noreferrer"
-        style="display:inline-block;padding:12px 24px;background:#007bff;color:#ffffff;text-decoration:none;border-radius:6px;font-weight:bold;">
-       Install Fubo TV
-     </a>
-   </p>
 
 Common Fubo TV Installation Problems
 =====================================

@@ -2,7 +2,7 @@
 How to Install Fubo TV | Complete Installation Guide
 ==============================================
 
- Fubo TV is a streaming service that provides access to live TV, sports, news, entertainment, and other programming on supported devices. To watch Fubo TV on a compatible device, you first need to download and install the Fubo TV application.
+Fubo TV is a streaming service that provides access to live TV, sports, news, entertainment, and other programming on supported devices. To watch Fubo TV on a compatible device, you first need to download and install the Fubo TV application.
 
 The Fubo TV installation process is generally simple. Depending on your device, you can download the application from the device's official app store or use the supported installation method provided for that platform.
 

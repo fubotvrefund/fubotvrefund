@@ -131,11 +131,6 @@ You can access Fubo TV through a supported web browser when a dedicated desktop 
 * Follow the instructions displayed by the service.
 * Start watching available content.
 
-Fubo TV Installation Button
-===========================
-
-Use the button below to continue with the software installation process:
-
 
 Common Fubo TV Installation Problems
 =====================================
